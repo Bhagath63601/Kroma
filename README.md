@@ -6,6 +6,22 @@ Built on **Next.js 16 (App Router)**, **Supabase (PostgreSQL, Auth & Storage)**,
 
 ---
 
+## 📸 Visual Showcase & UI Preview
+
+### 🏠 Homepage
+Elegant, full-screen lifestyle banner carousel with smooth scroll-fade reveals.
+![Homepage Preview](./public/screenshots/homepage.png)
+
+### 🛒 Product Listing Page (PLP)
+Sophisticated sidebar filters synced to URL queries for real-time item narrowing.
+![Products Preview](./public/screenshots/products.png)
+
+### 🏺 Product Detail Page (PDP)
+High-fidelity product views, variant swatches, quantity adjusters, and customer reviews.
+![Product Detail Preview](./public/screenshots/product_detail.png)
+
+---
+
 ## 💎 Design Philosophy & UX
 
 Kroma's frontend is designed to feel premium, featuring:
