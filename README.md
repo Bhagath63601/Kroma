@@ -8,6 +8,10 @@ Built on **Next.js 16 (App Router)**, **Supabase (PostgreSQL, Auth & Storage)**,
 
 ## 📸 Visual Showcase & UI Preview
 
+### 🎥 Interactive Experience Walkthrough
+Watch the fluid, Apple-inspired user experience in action, including the homepage animations, dynamic product filtering, and product details:
+![Interactive Experience Walkthrough](./public/walkthrough.gif)
+
 ### 🏠 Homepage
 Elegant, full-screen lifestyle banner carousel with smooth scroll-fade reveals.
 ![Homepage Preview](./public/screenshots/homepage.png)
